@@ -9,3 +9,9 @@ description="A small text editor"
 version="8.6"
 arch=["x86_64"]
 deps=[]
+
+[fastfetch]
+description="A maintained, feature-rich and performance oriented, neofetch like system information tool"
+version="2.50.2"
+arch=["x86_64"]
+deps=[]
