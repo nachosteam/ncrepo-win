@@ -15,3 +15,9 @@ description="A maintained, feature-rich and performance oriented, neofetch like 
 version="2.50.2"
 arch=["x86_64"]
 deps=[]
+
+[nachosconsole_old]
+description = "Old Nachos Console https://github.com/nachosteam/nachos-console"
+version = "commit_11b911e"
+arch = ["x86_64"]
+deps = []
