@@ -3,3 +3,9 @@ description="Just hello world"
 version="1.0"
 arch=["x86_64"]
 deps=[]
+
+[nano]
+description="A small text editor"
+version="8.6"
+arch=["x86_64"]
+deps=[]
