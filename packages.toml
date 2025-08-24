@@ -1,0 +1,5 @@
+[helloworld]
+description="Just hello world"
+version="1.0"
+arch=["x86_64"]
+deps=[]
